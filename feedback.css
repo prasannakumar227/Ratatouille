@@ -1,0 +1,124 @@
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+            background-image: url("https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmVlZGJhY2t8ZW58MHx8MHx8&w=1000&q=80");
+            background-repeat: no-repeat;
+            background-size: cover;
+}
+
+
+#titleContainer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.title {
+    margin: 0;
+}
+
+#form {
+    background-color: rgba(247, 247, 247,0.5);
+    border-radius: 5px;
+    margin: 50px auto;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.input {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+}
+
+textarea.input {
+    height: 100px;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer span {
+    display: inline-block;
+    margin: 0 10px;
+}
+.nav{
+    width: 100%;
+    background-color: rgba(5, 5, 5,0.4);
+    height:70px;
+  }
+  .nav-bar{
+    display: flex;
+    margin:30px;
+    margin-top: 0px;
+    font-size: large;
+    align-items: flex-end;
+    position: relative;
+    padding-top:5px;
+    color:white;
+  
+  }
+  .nav-bar a{
+  color:ghostwhite;
+  
+  }
+  .logo{
+    padding-right: 610px;
+    display: flex;
+    margin-top: 0px;
+    padding-bottom:10px;
+    font-family:cursive;
+    font-style:italic;
+  }
+  .logo span{
+    padding-top:10px;
+  }
+  .logo img{
+    height:30px;
+    width:30px;
+    padding-top:10px;
+    padding-right:10px;
+  }
+  
+  
+  .link {
+    padding:10px;
+    margin-left: 50px;
+    border-radius: 10px;
+    transition: transform 0.2s;
+    cursor: pointer;
+    font-family:cursive;
+    color:black;
+  
+  }
+  .link:hover{
+    color: white;
+    transform: scale(1.1);
+    background-color:#0091FF;
+  
+  }
+  
+  .logo span{
+    font-weight:bold;
+    font-size:25px;
+  }

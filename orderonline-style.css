@@ -1,0 +1,168 @@
+
+
+body {
+  background-image: url('orderonline-bg.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+  width:100%;
+  margin:0;
+}
+
+
+#submit {
+  width: 30%;
+  height: 30px;
+  background-color: gray;
+  color: white;
+}
+
+
+
+img{
+height: 200px;
+width: 200px;
+border-radius: 20px;
+}
+
+a{
+text-decoration: none;
+}
+.gridViewInfo{
+color: white;
+}
+
+
+/* Style for main view container */
+#mainViewContainer {
+width: 100%;
+background-color: rgba(5, 5, 5,0.4);
+
+}
+form{
+  margin-top:50px;
+}
+/* Style for grid view item */
+.gridViewItem {
+width: 17.1%;
+margin:20px;
+float: left;
+box-sizing: border-box;
+text-align: center;
+transition: transform .2s;
+}
+.gridViewItem:hover{
+  transform: scale(1.1)
+
+}
+/* Style for grid view item link */
+.gridViewItem a {
+text-decoration: none;
+}
+
+/* Style for grid view info */
+.gridViewInfo {
+margin-top: 10px;
+font-size: 1.2rem;
+color: white;
+margin-bottom: 10px;
+}
+
+ select {
+    background-color: #515558;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    /* border: none; */
+    /* font-size: 20px; */
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    -webkit-appearance: button;
+    appearance: button;
+    outline: none;
+    border-radius: 10px;
+}
+select::before {
+  content: "\f13a";
+  font-family: FontAwesome;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: 100%;
+  text-align: center;
+  font-size: 28px;
+  line-height: 45px;
+  color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.1);
+  pointer-events: none;
+}
+
+select:hover::before {
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+ select option {
+  padding: 30px;
+}
+.nav{
+  width: 100%;
+  background-color: rgba(5, 5, 5,0.4);
+  height:70px;
+}
+.nav-bar{
+  display: flex;
+  margin:30px;
+  margin-top: 0px;
+  font-size: large;
+  align-items: flex-end;
+  position: relative;
+  padding-top:5px;
+  color:white;
+
+}
+.nav-bar a{
+color:ghostwhite;
+
+}
+.logo{
+  padding-right: 550px;
+  display: flex;
+  margin-top: 0px;
+  padding-bottom:10px;
+  font-family:cursive;
+  font-style:italic;
+}
+.logo span{
+  padding-top:10px;
+}
+.logo img{
+  height:30px;
+  width:30px;
+  padding-top:10px;
+  padding-right:10px;
+}
+
+
+.link {
+  padding:10px;
+  margin-left: 50px;
+  border-radius: 10px;
+  transition: transform 0.2s;
+  cursor: pointer;
+  font-family:cursive;
+  color:black;
+
+}
+.link:hover{
+  color: white;
+  transform: scale(1.1);
+  background-color:#0091FF;
+
+}
+
+.logo span{
+  font-weight:bold;
+  font-size:25px;
+}
