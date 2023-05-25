@@ -67,9 +67,18 @@ For detailed instructions and guidelines, please refer to the [Ratatouille Docum
 If you encounter any issues or have questions, please visit the [Issues](https://github.com/ratatouille/issues) tab in the repository. We are committed to providing support and addressing any concerns promptly.
 
 
-## Contributing
+## Contributions
 
-We welcome contributions from everyone! If you find any issues or have suggestions for improvement, please fork the repository and submit a pull request. 🚀
+### Ratatouille is a collaborative project made possible by the following contributors:
+
+- [Prasanna Kumar](https://github.com/prasannakumar227)
+- [Sanjay](https://github.com/Sanjaykk06)
+- [Santhosh Kumar](https://github.com/Santhosh302002)
+
+We express our gratitude to all the contributors who have dedicated their time and expertise to improve Ratatouille.
+
+We also welcome contributions from everyone! If you find any issues or have suggestions for improvement, please fork the repository and submit a pull request. 🚀
+
 ##### Thank you for choosing Ratatouille - A System for Managing Cloud Kitchens and Restaurants!
 
 
