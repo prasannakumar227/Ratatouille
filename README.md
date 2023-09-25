@@ -58,9 +58,9 @@ If you encounter any issues or have questions, please visit the [Issues](https:/
 
 ### Ratatouille is a collaborative project made possible by the following contributors:
 
-- [Prasanna Kumar](https://github.com/prasannakumar227)
-- [Sanjay](https://github.com/Sanjaykk06)
-- [Santhosh Kumar](https://github.com/Santhosh302002)
+- <a href="https://github.com/prasannakumar227"><img src="https://img.shields.io/badge/-prasannakumar227-gray?style=flat&logo=github"></a>
+- <a href="https://github.com/Sanjaykk06"><img src="https://img.shields.io/badge/-Sanjaykk06-gray?style=flat&logo=github"></a>
+- <a href="https://github.com/Santhosh302002"><img src="https://img.shields.io/badge/-Santhosh30200-gray?style=flat&logo=github"></a>
 
 We express our gratitude to all the contributors who have dedicated their time and expertise to improve Ratatouille.
 
