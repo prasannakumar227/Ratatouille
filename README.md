@@ -4,6 +4,14 @@
 
 Ratatouille is a comprehensive system designed for the efficient management of cloud kitchens and restaurants. This system leverages modern technology to streamline various aspects of the culinary business, providing enhanced control and convenience for both kitchen operators and customers. By utilizing cloud-based infrastructure and advanced features, Ratatouille offers an integrated solution for menu management, order processing, inventory control, customer engagement, and more.
 
+## Table of Contents
+
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+  - [Documentation](#documentation)
+  - [Support](#support)
+  - [Contributions](#contributions)
+
 ## Features
 
 ### Ratatouille encompasses a range of features to optimize the management of cloud kitchens and restaurants:
