@@ -27,35 +27,14 @@ These features collectively ensure a seamless and convenient experience for user
 
 #### To run the Ratatouille PHP program locally on your machine, follow these steps using XAMPP:
 
-### For Windows Users:
-
-1. Download and install XAMPP from the [Apache Friends website](https://www.apachefriends.org/index.html).
-
-2. Launch XAMPP and start the Apache and MySQL services.
-
-3. Clone the Ratatouille repository to a folder in the `htdocs` directory of your XAMPP installation. For example, `C:\xampp\htdocs\ratatouille`.
-
-4. Open a web browser and navigate to `http://localhost/ratatouille`.
-
-5. Follow the instructions provided in the Ratatouille documentation to set up the necessary configuration, such as database connections and environment settings.
-
-6. Start exploring and using the Ratatouille system on your local server.
-
-### For Mac Users:
-
-1. Download and install XAMPP from the [Apache Friends website](https://www.apachefriends.org/index.html).
-
-2. Launch XAMPP and start the Apache and MySQL services.
-
-3. Open a Finder window and navigate to the `Applications/XAMPP/htdocs` directory.
-
-4. Clone the Ratatouille repository to a folder in the `htdocs` directory. For example, `/Applications/XAMPP/htdocs/ratatouille`.
-
-5. Open a web browser and navigate to `http://localhost/ratatouille`.
-
-6. Follow the instructions provided in the Ratatouille documentation to set up the necessary configuration, such as database connections and environment settings.
-
-7. Start exploring and using the Ratatouille system on your local server.
+| **Steps** | **For Windows Users**                                                                                                                           | **For Mac Users**                                                                                                                                                           |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Download and install XAMPP from the [Apache Friends website](https://www.apachefriends.org/index.html).                                      | Download and install XAMPP from the [Apache Friends website](https://www.apachefriends.org/index.html).                                                                      |
+| 2   | Launch XAMPP and start the Apache and MySQL services.                                                                                       | Launch XAMPP and start the Apache and MySQL services.                                                                                                                       |
+| 3   | Clone the Ratatouille repository to a folder in the `htdocs` directory of your XAMPP installation. For example, `C:\xampp\htdocs\ratatouille`. | Open a Finder window, navigate to the `Applications/XAMPP/htdocs` directory and clone the Ratatouille repository. For example, `/Applications/XAMPP/htdocs/ratatouille`.     |
+| 4   | Open a web browser and navigate to `http://localhost/ratatouille`.                                                                          | Open a web browser and navigate to `http://localhost/ratatouille`.                                                                                                          |
+| 5   | Follow the instructions provided in the Ratatouille documentation to set up the necessary configuration, such as database connections and environment settings. | Follow the instructions provided in the Ratatouille documentation to set up the necessary configuration, such as database connections and environment settings.               |
+| 6   | Start exploring and using the Ratatouille system on your local server.                                                                      | Start exploring and using the Ratatouille system on your local server.                                                                                                      |
 
 
 ## Documentation
